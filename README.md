@@ -46,4 +46,5 @@ To generate final answers from retrieved chunks (RAG-style pipeline).
 - Enables fault reasoning: Retrieved examples help the LLM infer patterns (e.g., "these readings often result in a fault").
 
 # original LLM model vs LLM model with added context 
-It directly told it is unfailiar with specific event. The model with RAG pipeline got the context and try to give me the answer. Though the data is fully imbalanced. I will try to increase the k value or try to make the data balanced. 
+It directly told that, it is unfamiliar with specific event. The model with RAG pipeline got the context and try to give me the answer. Though the data is fully imbalanced. I will try to increase the k value or try to make the data balanced.
+ 
