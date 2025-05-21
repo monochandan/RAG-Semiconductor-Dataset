@@ -51,4 +51,10 @@ To generate final answers from retrieved chunks (RAG-style pipeline).
 
 # original LLM model vs LLM model with added context 
 It directly told that, it is unfamiliar with specific event. The model with RAG pipeline got the context and try to give me the answer. Though the data is fully imbalanced. I will try to increase the k value or try to make the data balanced.
+
+# Multi Modal RAG with LLM:
+- working
+  
+# Cache Augmented generation
+ - Working 
  
