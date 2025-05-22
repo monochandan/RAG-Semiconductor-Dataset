@@ -1,3 +1,4 @@
+[Mlti-Modal-RAG-Chat-With-PDF](https://github.com/monochandan/Mlti-Modal-RAG-Chat-With-PDF)
 ## RAG pipeline For Semi-conductor manufacturing process
 
 Building a semantic vector search system using sensor data from a semiconductor manufacturing process. The aim is to embed processed sensor logs and store them in a FAISS vector database for efficient similarity search or retrieval-based applications.
